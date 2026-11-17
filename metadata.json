@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Screener & Interview Agent",
+  "description": "AI-powered resume screening, gap analysis, tailored question generation, and real-time interactive interview agent with live recruiter monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
